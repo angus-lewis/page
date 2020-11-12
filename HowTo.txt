@@ -1,0 +1,47 @@
+##MAC-OS##
+
+% I followed this: https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/
+
+% set up (already done)
+download victor Hugo: https://github.com/netlify-templates/victor-hugo 
+Place in repo
+
+% install javascript stuff 
+node.js and npm: https://nodejs.org/en/ via img installer
+
+$ npm install 
+
+% install home-brew via terminal
+https://brew.sh/
+
+% download and install Hugo 
+https://github.com/gohugoio/hugo/releases
+Download and run 
+brew install hugo
+
+% in this site folder run things like 
+hugo new about.md 
+Or 
+hugo new post/first.md
+To make a new page. 
+Write after the +++ in markdown
+Remember to set draft = false
+
+% if making a new directory as in 
+hugo new newsubdir/first.md
+Remember to go to themes/layouts/newsubdir/ 
+And add html files to tell the page what to look like
+
+%icons at 
+https://fontawesome.com/icons?d=gallery
+
+% run 
+npm run build
+git add .
+git commit -m “.”
+git push 
+
+% handy commands 
+hugo new newdir/newfilename.md 
+npm start # to test the site in browser 
+npm run build # to build the site before commit 
