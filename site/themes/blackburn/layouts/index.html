@@ -6,11 +6,25 @@
 </div>
 
 <div class="content">
-  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+  <h4>
+    Welcome!
+  <h4>
+  <!-- {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
     {{ .Render "summary"}}
-  {{ end }}
+  {{ end }} -->
 
-  {{ partial "pagination.html" . }}
+  <!-- {{ partial "pagination.html" . }} -->
+
+</div>
+<div class="content">
+  <h4>
+    All the good stuff is to the left.
+  <h4>
+  <!-- {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }} -->
+
+  <!-- {{ partial "pagination.html" . }} -->
 
 </div>
 

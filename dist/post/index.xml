@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 11:35:52 +1030</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 14:34:50 +1030</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smallpost</title>
+      <link>/post/sub/smallpost/</link>
+      <pubDate>Thu, 12 Nov 2020 14:34:50 +1030</pubDate>
+      
+      <guid>/post/sub/smallpost/</guid>
+      <description>a sub post</description>
+    </item>
+    
     <item>
       <title>Second</title>
       <link>/post/second/</link>

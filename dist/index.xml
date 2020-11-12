@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 11:35:52 +1030</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 14:34:50 +1030</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smallpost</title>
+      <link>/post/sub/smallpost/</link>
+      <pubDate>Thu, 12 Nov 2020 14:34:50 +1030</pubDate>
+      
+      <guid>/post/sub/smallpost/</guid>
+      <description>a sub post</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Thu, 12 Nov 2020 13:59:16 +1030</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>put a list of talks here</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/research/</link>
+      <pubDate>Thu, 12 Nov 2020 13:30:44 +1030</pubDate>
+      
+      <guid>/research/</guid>
+      <description>put papers here in markdown</description>
+    </item>
+    
     <item>
       <title>Second</title>
       <link>/post/second/</link>
@@ -33,16 +60,6 @@
       
       <guid>/about/</guid>
       <description>About I like maths &amp;ndash; applied probability, statistics. PhD student, Adelaide Uni.</description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>/tech/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/tech/</guid>
-      <description>Victor Hugo A Hugo boilerplate for creating truly epic websites This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline. Victor Hugo setup to use PostCSS and Babel for CSS and JavaScript compiling/transpiling. This project is released under the MIT license. Please make sure you understand its implications and guarantees.
-Enjoy!! 😸 </description>
     </item>
     
   </channel>

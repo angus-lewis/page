@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 12:19:51 +1030</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 13:30:44 +1030</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papers</title>
       <link>/research/papers/</link>
-      <pubDate>Thu, 12 Nov 2020 12:19:51 +1030</pubDate>
+      <pubDate>Thu, 12 Nov 2020 13:30:44 +1030</pubDate>
       
       <guid>/research/papers/</guid>
-      <description>Put a reference here</description>
+      <description>papers here</description>
     </item>
     
   </channel>
