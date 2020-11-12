@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Angus Lewis</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Angus Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 11:35:52 +1030</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>/post/second/</link>
+      <pubDate>Thu, 12 Nov 2020 11:35:52 +1030</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>a second un-asked-for opinion</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 12 Nov 2020 11:22:33 +1030</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>More people should be data literate</description>
+    </item>
+    
+  </channel>
+</rss>

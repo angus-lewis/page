@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Angus Lewis</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on Angus Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 12:19:51 +1030</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>/research/papers/</link>
+      <pubDate>Thu, 12 Nov 2020 12:19:51 +1030</pubDate>
+      
+      <guid>/research/papers/</guid>
+      <description>Put a reference here</description>
+    </item>
+    
+  </channel>
+</rss>
