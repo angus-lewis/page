@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-12T14:34:50+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-11-12T14:34:50+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sub/smallpost/</loc>
+    <lastmod>2020-11-12T14:34:50+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2020-11-12T13:59:16+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2020-11-12T13:30:44+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second/</loc>
+    <lastmod>2020-11-12T11:35:52+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first/</loc>
+    <lastmod>2020-11-12T11:22:33+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-11-12T11:19:03+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
+  </url>
+  
+</urlset>
