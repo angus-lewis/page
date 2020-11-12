@@ -1,7 +1,7 @@
 {
   "main": {
-    "css": "main.6f21a.css",
-    "js": "main.6f21a.js"
+    "css": "main.css",
+    "js": "main.js"
   },
   "": {
     "keep": "fonts/.keep"
