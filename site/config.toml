@@ -36,12 +36,12 @@ disableKinds = ["RSS"]
     weight = 1
     identifier = "about"
     url = "/about/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-comment fa-fw'></i>"
-    weight = 2
-    identifier = "/post/"
-    url = "/post/"
+  # [[menu.main]]
+  #   name = "Posts"
+  #   pre = "<i class='fa fa-comment fa-fw'></i>"
+  #   weight = 2
+  #   identifier = "/post/"
+  #   url = "/post/"
   [[menu.main]]
     name = "Research"
     pre = "<i class='fa fa-book-open fa-fw'></i>"
@@ -49,7 +49,7 @@ disableKinds = ["RSS"]
     identifier = "/research/"
     url = "/research/"
   [[menu.main]]
-    name = "Talks"
+    name = "Talks & Activities"
     pre = "<i class='fa fa-microphone fa-fw'></i>"
     weight = 4
     identifier = "/talks/"
@@ -60,19 +60,19 @@ disableKinds = ["RSS"]
     weight = 4
     identifier = "/CV/"
     url = "/CV.pdf"
-  [[menu.main]]
-    name = "Parent"
-    pre = "<i class='fa fa-cat fa-fw'></i>"
-    weight = 5
-    identifier = "/parent/"
-    url = "/parent/"
-  [[menu.main]]
-    name = "Child"
-    pre = "<i class='fa fa-cat fa-fw'></i>"
-    weight = 1
-    identifier = "/parent/child/"
-    parent = "/parent/"
-    url = "/parent/child/"
+  # [[menu.main]]
+  #   name = "Parent"
+  #   pre = "<i class='fa fa-cat fa-fw'></i>"
+  #   weight = 5
+  #   identifier = "/parent/"
+  #   url = "/parent/"
+  # [[menu.main]]
+  #   name = "Child"
+  #   pre = "<i class='fa fa-cat fa-fw'></i>"
+  #   weight = 1
+  #   identifier = "/parent/child/"
+  #   parent = "/parent/"
+  #   url = "/parent/child/"
   # [[menu.main]]
   #   name = "Contact"
   #   pre = "<i class='fa fa-phone fa-fw'></i>"
